@@ -1,0 +1,322 @@
+2018-07-17 16:45:13,877 INFO   main [MoveFileApplication] Starting MoveFileApplication on bg229562 with PID 2360 (E:\Git\new_rcs\move_file\target\classes started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 16:45:13,879 INFO   main [MoveFileApplication] No active profile set, falling back to default profiles: default
+2018-07-17 16:45:13,910 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1d119efb: startup date [Tue Jul 17 16:45:13 CST 2018]; root of context hierarchy
+2018-07-17 16:45:14,330 INFO   main [AnnotationMBeanExporter] Registering beans for JMX exposure on startup
+2018-07-17 16:45:14,338 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 16:45:14,347 INFO   main [MoveFileApplication] Started MoveFileApplication in 0.669 seconds (JVM running for 1.317)
+2018-07-17 16:45:15,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817115001
+2018-07-17 16:45:16,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817116001
+2018-07-17 16:45:17,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817117001
+2018-07-17 16:45:18,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817118001
+2018-07-17 16:45:19,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817119001
+2018-07-17 16:45:20,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817120001
+2018-07-17 16:45:21,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817121001
+2018-07-17 16:45:22,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817122001
+2018-07-17 16:45:23,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817123001
+2018-07-17 16:45:24,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817124001
+2018-07-17 16:45:25,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817125000
+2018-07-17 16:45:26,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817126000
+2018-07-17 16:45:27,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817127001
+2018-07-17 16:45:28,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817128001
+2018-07-17 16:45:29,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817129000
+2018-07-17 16:45:30,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817130001
+2018-07-17 16:45:31,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817131001
+2018-07-17 16:45:32,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817132001
+2018-07-17 16:45:33,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817133001
+2018-07-17 16:45:34,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817134001
+2018-07-17 16:45:35,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817135001
+2018-07-17 16:45:36,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817136001
+2018-07-17 16:45:37,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817137001
+2018-07-17 16:45:38,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817138001
+2018-07-17 16:45:39,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817139001
+2018-07-17 16:45:40,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817140001
+2018-07-17 16:45:41,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817141001
+2018-07-17 16:45:42,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817142000
+2018-07-17 16:45:43,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817143001
+2018-07-17 16:45:44,006 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817144006
+2018-07-17 16:45:45,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817145001
+2018-07-17 16:45:46,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817146001
+2018-07-17 16:45:47,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817147001
+2018-07-17 16:45:48,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817148001
+2018-07-17 16:45:49,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817149001
+2018-07-17 16:45:50,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817150001
+2018-07-17 16:45:51,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817151001
+2018-07-17 16:45:52,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817152001
+2018-07-17 16:45:53,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817153001
+2018-07-17 16:45:54,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817154001
+2018-07-17 16:45:55,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817155001
+2018-07-17 16:45:56,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817156001
+2018-07-17 16:45:57,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817157001
+2018-07-17 16:45:58,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817158001
+2018-07-17 16:45:59,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817159001
+2018-07-17 16:46:00,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817160001
+2018-07-17 16:46:01,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817161001
+2018-07-17 16:46:02,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817162001
+2018-07-17 16:46:03,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817163001
+2018-07-17 16:46:04,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817164001
+2018-07-17 16:46:05,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817165001
+2018-07-17 16:46:06,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817166001
+2018-07-17 16:46:07,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817167001
+2018-07-17 16:46:08,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817168001
+2018-07-17 16:46:09,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817169001
+2018-07-17 16:46:10,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817170001
+2018-07-17 16:46:11,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817171001
+2018-07-17 16:46:12,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817172001
+2018-07-17 16:46:13,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817173001
+2018-07-17 16:46:14,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817174001
+2018-07-17 16:46:15,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817175001
+2018-07-17 16:46:16,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817176001
+2018-07-17 16:46:17,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817177001
+2018-07-17 16:46:18,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817178001
+2018-07-17 16:46:19,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817179000
+2018-07-17 16:46:20,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817180001
+2018-07-17 16:46:21,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817181001
+2018-07-17 16:46:22,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817182001
+2018-07-17 16:46:23,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817183001
+2018-07-17 16:46:24,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817184001
+2018-07-17 16:46:25,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817185001
+2018-07-17 16:46:26,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817186001
+2018-07-17 16:46:27,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817187001
+2018-07-17 16:46:28,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817188001
+2018-07-17 16:46:29,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817189001
+2018-07-17 16:46:30,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817190001
+2018-07-17 16:46:31,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817191001
+2018-07-17 16:46:32,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817192001
+2018-07-17 16:46:33,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817193001
+2018-07-17 16:46:34,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817194001
+2018-07-17 16:46:35,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817195001
+2018-07-17 16:46:36,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817196001
+2018-07-17 16:46:37,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817197001
+2018-07-17 16:46:38,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817198001
+2018-07-17 16:46:39,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817199001
+2018-07-17 16:46:40,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817200001
+2018-07-17 16:46:41,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817201001
+2018-07-17 16:46:42,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817202000
+2018-07-17 16:46:43,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817203001
+2018-07-17 16:46:44,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817204001
+2018-07-17 16:46:45,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817205001
+2018-07-17 16:46:46,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817206001
+2018-07-17 16:46:47,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817207001
+2018-07-17 16:46:48,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817208001
+2018-07-17 16:46:49,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817209001
+2018-07-17 16:46:50,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817210001
+2018-07-17 16:46:51,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817211001
+2018-07-17 16:46:52,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817212001
+2018-07-17 16:46:53,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817213001
+2018-07-17 16:46:54,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817214001
+2018-07-17 16:46:55,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817215001
+2018-07-17 16:46:56,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817216001
+2018-07-17 16:46:57,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817217001
+2018-07-17 16:46:58,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817218001
+2018-07-17 16:46:59,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817219001
+2018-07-17 16:47:00,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817220001
+2018-07-17 16:47:01,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817221001
+2018-07-17 16:47:02,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817222001
+2018-07-17 16:47:03,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817223001
+2018-07-17 16:47:04,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817224001
+2018-07-17 16:47:05,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817225001
+2018-07-17 16:47:06,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817226000
+2018-07-17 16:47:07,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817227001
+2018-07-17 16:47:08,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817228001
+2018-07-17 16:47:09,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817229001
+2018-07-17 16:47:10,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817230001
+2018-07-17 16:47:11,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817231001
+2018-07-17 16:47:12,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817232001
+2018-07-17 16:47:13,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817233001
+2018-07-17 16:47:14,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817234001
+2018-07-17 16:47:15,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817235001
+2018-07-17 16:47:16,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817236001
+2018-07-17 16:47:17,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817237001
+2018-07-17 16:47:18,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817238001
+2018-07-17 16:47:19,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817239001
+2018-07-17 16:47:20,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817240001
+2018-07-17 16:47:21,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817241001
+2018-07-17 16:47:22,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817242001
+2018-07-17 16:47:23,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817243001
+2018-07-17 16:47:24,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817244001
+2018-07-17 16:47:25,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817245001
+2018-07-17 16:47:26,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817246001
+2018-07-17 16:47:27,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817247001
+2018-07-17 16:47:28,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817248001
+2018-07-17 16:47:29,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817249001
+2018-07-17 16:47:30,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817250001
+2018-07-17 16:47:31,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817251001
+2018-07-17 16:47:32,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817252001
+2018-07-17 16:47:33,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817253001
+2018-07-17 16:47:34,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817254001
+2018-07-17 16:47:35,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817255001
+2018-07-17 16:47:36,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817256001
+2018-07-17 16:47:37,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817257001
+2018-07-17 16:47:38,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817258001
+2018-07-17 16:47:39,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817259001
+2018-07-17 16:47:40,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817260001
+2018-07-17 16:47:41,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817261001
+2018-07-17 16:47:42,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817262001
+2018-07-17 16:47:43,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817263001
+2018-07-17 16:47:44,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817264001
+2018-07-17 16:47:45,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817265001
+2018-07-17 16:47:46,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817266001
+2018-07-17 16:47:47,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817267001
+2018-07-17 16:47:48,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817268001
+2018-07-17 16:47:49,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817269001
+2018-07-17 16:47:50,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817270000
+2018-07-17 16:47:51,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817271001
+2018-07-17 16:47:52,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817272001
+2018-07-17 16:47:53,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817273001
+2018-07-17 16:47:54,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817274001
+2018-07-17 16:47:55,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817275001
+2018-07-17 16:47:56,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817276001
+2018-07-17 16:47:57,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817277001
+2018-07-17 16:47:58,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817278001
+2018-07-17 16:47:59,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817279001
+2018-07-17 16:48:00,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817280001
+2018-07-17 16:48:01,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817281001
+2018-07-17 16:48:02,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817282001
+2018-07-17 16:48:03,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817283001
+2018-07-17 16:48:04,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817284001
+2018-07-17 16:48:05,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817285001
+2018-07-17 16:48:05,013 INFO   pool-1-thread-1 [MoveFileTask] 文件移动成功！文件名：《C:\Data\GuangzhouTranslate\cebin\sendTemp\KJ881101_test1_2016042516320312203.xml》 目标路径：C:\Data\GuangzhouTranslate\cebin
+2018-07-17 16:48:06,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817286001
+2018-07-17 16:48:07,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817287001
+2018-07-17 16:48:08,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817288001
+2018-07-17 16:48:09,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817289001
+2018-07-17 16:48:10,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817290001
+2018-07-17 16:48:11,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817291001
+2018-07-17 16:48:12,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817292001
+2018-07-17 16:48:13,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817293001
+2018-07-17 16:48:14,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817294001
+2018-07-17 16:48:15,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817295001
+2018-07-17 16:48:16,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817296001
+2018-07-17 16:48:17,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817297001
+2018-07-17 16:48:18,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817298001
+2018-07-17 16:48:19,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817299001
+2018-07-17 16:48:20,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817300000
+2018-07-17 16:48:21,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817301001
+2018-07-17 16:48:22,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817302001
+2018-07-17 16:48:23,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817303001
+2018-07-17 16:48:24,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817304000
+2018-07-17 16:48:25,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817305001
+2018-07-17 16:48:26,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817306001
+2018-07-17 16:48:27,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817307001
+2018-07-17 16:48:28,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817308001
+2018-07-17 16:48:29,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817309001
+2018-07-17 16:48:30,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817310001
+2018-07-17 16:48:31,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817311001
+2018-07-17 16:48:32,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817312001
+2018-07-17 16:48:33,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817313001
+2018-07-17 16:48:34,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817314001
+2018-07-17 16:48:35,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817315001
+2018-07-17 16:48:36,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817316001
+2018-07-17 16:48:37,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817317001
+2018-07-17 16:48:38,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817318001
+2018-07-17 16:48:39,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817319001
+2018-07-17 16:48:40,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817320001
+2018-07-17 16:48:41,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817321001
+2018-07-17 16:48:42,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817322001
+2018-07-17 16:48:43,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817323000
+2018-07-17 16:48:44,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817324000
+2018-07-17 16:48:45,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817325001
+2018-07-17 16:48:46,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817326001
+2018-07-17 16:48:47,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817327001
+2018-07-17 16:48:48,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817328001
+2018-07-17 16:48:49,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817329001
+2018-07-17 16:48:50,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817330001
+2018-07-17 16:48:51,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817331001
+2018-07-17 16:48:52,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817332001
+2018-07-17 16:48:53,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817333001
+2018-07-17 16:48:54,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817334001
+2018-07-17 16:48:54,014 INFO   pool-1-thread-1 [MoveFileTask] 文件移动成功！文件名：《C:\Data\GuangzhouTranslate\cebin\error\20180717\cebinKJ881101_test1_2016042516320312203.xml》 目标路径：C:\Data\GuangzhouTranslate\cebin
+2018-07-17 16:48:55,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817335001
+2018-07-17 16:48:56,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817336001
+2018-07-17 16:48:57,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817337001
+2018-07-17 16:48:58,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817338001
+2018-07-17 16:48:59,000 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817339000
+2018-07-17 16:49:00,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817340001
+2018-07-17 16:49:01,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817341001
+2018-07-17 16:49:02,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817342001
+2018-07-17 16:49:03,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817343001
+2018-07-17 16:49:04,001 INFO   pool-1-thread-1 [MoveFileTask] =====>>>>>使用cron  1531817344001
+2018-07-17 17:07:40,893 INFO   main [MoveFileApplication] Starting MoveFileApplication on bg229562 with PID 8128 (E:\Git\new_rcs\move_file\target\classes started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 17:07:40,895 INFO   main [MoveFileApplication] No active profile set, falling back to default profiles: default
+2018-07-17 17:07:40,959 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4b14c583: startup date [Tue Jul 17 17:07:40 CST 2018]; root of context hierarchy
+2018-07-17 17:07:41,563 INFO   main [AnnotationMBeanExporter] Registering beans for JMX exposure on startup
+2018-07-17 17:07:41,571 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 17:07:41,578 INFO   main [MoveFileApplication] Started MoveFileApplication in 0.877 seconds (JVM running for 1.683)
+2018-07-17 17:22:53,973 INFO   main [MoveFileApplication] Starting MoveFileApplication on bg229562 with PID 11952 (E:\Git\new_rcs\move_file\target\classes started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 17:22:53,975 INFO   main [MoveFileApplication] No active profile set, falling back to default profiles: default
+2018-07-17 17:22:54,006 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@460d0a57: startup date [Tue Jul 17 17:22:54 CST 2018]; root of context hierarchy
+2018-07-17 17:22:54,447 INFO   main [AnnotationMBeanExporter] Registering beans for JMX exposure on startup
+2018-07-17 17:22:54,455 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 17:22:54,463 INFO   main [MoveFileApplication] Started MoveFileApplication in 0.713 seconds (JVM running for 1.533)
+2018-07-17 17:49:55,968 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 17:49:55,974 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 17:49:55,975 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 17:49:56,102 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 17:49:56,108 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 17:49:56,129 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 17:49:56,130 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 17:49:56,132 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 17:49:56,132 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@78871dc5, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6eb3ae54, org.springframework.test.context.support.DirtiesContextTestExecutionListener@567a4593, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@756de23f, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@120d254, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@11d08960, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@11eb06c3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@5d08f565, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@7726e99a]
+2018-07-17 17:49:56,137 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 17:49:56,138 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 17:49:56,138 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 17:49:56,145 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 17:49:56,150 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 17:49:56,155 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 17:49:56,155 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 17:49:56,156 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 17:49:56,157 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1604bfba, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@11c757a1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@364a1425, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3970a4fb, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@125f7833, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@39cc65b1, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@1a28651c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@52061eae, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@fc85b94]
+2018-07-17 17:49:56,482 INFO   main [MoveFileApplicationTests] Starting MoveFileApplicationTests on bg229562 with PID 11824 (started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 17:49:56,482 INFO   main [MoveFileApplicationTests] No active profile set, falling back to default profiles: default
+2018-07-17 17:49:56,516 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4faa65fe: startup date [Tue Jul 17 17:49:56 CST 2018]; root of context hierarchy
+2018-07-17 17:49:57,170 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 17:49:57,188 INFO   main [MoveFileApplicationTests] Started MoveFileApplicationTests in 0.969 seconds (JVM running for 1.994)
+2018-07-17 17:49:57,455 INFO   Thread-2 [AnnotationConfigApplicationContext] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4faa65fe: startup date [Tue Jul 17 17:49:56 CST 2018]; root of context hierarchy
+2018-07-17 17:54:31,372 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 17:54:31,378 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 17:54:31,378 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 17:54:31,478 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 17:54:31,483 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 17:54:31,492 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 17:54:31,493 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 17:54:31,495 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 17:54:31,495 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@78871dc5, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6eb3ae54, org.springframework.test.context.support.DirtiesContextTestExecutionListener@567a4593, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@756de23f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@120d254, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@11d08960, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@11eb06c3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5d08f565, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7726e99a]
+2018-07-17 17:54:31,500 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 17:54:31,501 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 17:54:31,502 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 17:54:31,506 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 17:54:31,512 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 17:54:31,515 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 17:54:31,516 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 17:54:31,517 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 17:54:31,517 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1604bfba, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@11c757a1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@364a1425, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3970a4fb, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@125f7833, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@39cc65b1, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1a28651c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@52061eae, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@fc85b94]
+2018-07-17 17:54:31,780 INFO   main [MoveFileApplicationTests] Starting MoveFileApplicationTests on bg229562 with PID 8860 (started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 17:54:31,780 INFO   main [MoveFileApplicationTests] No active profile set, falling back to default profiles: default
+2018-07-17 17:54:31,800 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4faa65fe: startup date [Tue Jul 17 17:54:31 CST 2018]; root of context hierarchy
+2018-07-17 17:54:32,254 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 17:54:32,270 INFO   main [MoveFileApplicationTests] Started MoveFileApplicationTests in 0.694 seconds (JVM running for 1.292)
+2018-07-17 17:54:32,306 INFO   Thread-2 [AnnotationConfigApplicationContext] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4faa65fe: startup date [Tue Jul 17 17:54:31 CST 2018]; root of context hierarchy
+2018-07-17 18:42:28,164 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 18:42:28,170 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 18:42:28,171 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 18:42:28,271 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 18:42:28,276 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 18:42:28,286 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 18:42:28,287 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 18:42:28,288 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 18:42:28,288 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@78871dc5, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6eb3ae54, org.springframework.test.context.support.DirtiesContextTestExecutionListener@567a4593, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@756de23f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@120d254, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@11d08960, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@11eb06c3, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5d08f565, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7726e99a]
+2018-07-17 18:42:28,293 INFO   main [SpringBootTestContextBootstrapper] Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.best.rcs.move_file.MoveFileApplicationTests], using SpringBootContextLoader
+2018-07-17 18:42:28,294 INFO   main [AbstractContextLoader] Could not detect default resource locations for test class [com.best.rcs.move_file.MoveFileApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-07-17 18:42:28,294 INFO   main [AnnotationConfigContextLoaderUtils] Could not detect default configuration classes for test class [com.best.rcs.move_file.MoveFileApplicationTests]: MoveFileApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-07-17 18:42:28,299 INFO   main [SpringBootTestContextBootstrapper] Found @SpringBootConfiguration com.best.rcs.move_file.MoveFileApplication for test class com.best.rcs.move_file.MoveFileApplicationTests
+2018-07-17 18:42:28,305 INFO   main [SpringBootTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-07-17 18:42:28,308 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [javax/servlet/ServletContext]
+2018-07-17 18:42:28,308 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.transaction.TransactionalTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttributeSource]
+2018-07-17 18:42:28,309 INFO   main [SpringBootTestContextBootstrapper] Could not instantiate TestExecutionListener [org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]. Specify custom listener classes or make the default listener classes (and their required dependencies) available. Offending class: [org/springframework/transaction/interceptor/TransactionAttribute]
+2018-07-17 18:42:28,310 INFO   main [SpringBootTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1604bfba, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@11c757a1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@364a1425, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3970a4fb, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@125f7833, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@39cc65b1, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@1a28651c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@52061eae, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@fc85b94]
+2018-07-17 18:42:28,573 INFO   main [MoveFileApplicationTests] Starting MoveFileApplicationTests on bg229562 with PID 10320 (started by BG229562 in E:\Git\new_rcs\move_file)
+2018-07-17 18:42:28,574 INFO   main [MoveFileApplicationTests] No active profile set, falling back to default profiles: default
+2018-07-17 18:42:28,593 INFO   main [AnnotationConfigApplicationContext] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5fc25637: startup date [Tue Jul 17 18:42:28 CST 2018]; root of context hierarchy
+2018-07-17 18:42:29,036 INFO   main [ScheduledAnnotationBeanPostProcessor] No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2018-07-17 18:42:29,048 INFO   main [MoveFileApplicationTests] Started MoveFileApplicationTests in 0.676 seconds (JVM running for 1.273)
+2018-07-17 18:42:29,082 INFO   Thread-2 [AnnotationConfigApplicationContext] Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5fc25637: startup date [Tue Jul 17 18:42:28 CST 2018]; root of context hierarchy
